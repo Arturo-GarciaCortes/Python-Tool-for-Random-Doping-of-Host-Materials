@@ -1,1 +1,1 @@
-# Random-Doping-of-Host-Materials-with-Python
+# Python-Tool-for-Random-Doping-of-Host-Materials
